@@ -44,3 +44,6 @@ To run the program and convert an OpenRocket file to OpenSCAD:
 ## Development & Contributing
 
 See the [docs](docs/README.md) for how to get started with development.
+## License
+
+None. Upstream [bdureau/OpenRocketToOpenScad](https://github.com/bdureau/OpenRocketToOpenScad) has no license, and this fork follows upstream.
