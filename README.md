@@ -1,5 +1,12 @@
 # ORKtoSCAD
 
+> **This fork is being archived.** Apart from this notice, it is identical to
+> the upstream repository,
+> [bdureau/OpenRocketToOpenScad](https://github.com/bdureau/OpenRocketToOpenScad),
+> where its only change (a Java refactor with tests and docs) was merged on
+> 2024-09-27. Use, report issues against and contribute to the upstream
+> repository instead; nothing further will be committed here.
+
 ORKtoSCAD is a Java-based command-line program that converts OpenRocket files (.ork) into OpenSCAD (.scad) files. The program extracts components from the .ork file and generates corresponding OpenSCAD files, which can be further converted to SVG or STL files for use with CNC routers or 3D printers.
 
 ## Features
